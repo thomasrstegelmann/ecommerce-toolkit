@@ -1,8 +1,15 @@
 # ecommerce-toolkit
-A list of services and applications useful for ecommerce 
+You want to grow your ecommerce startup. This list provides you tools to scale
+
+## Automate
+- Make (https://www.make.com/): Automate, integrate etc.
 
 ## Images
-https://www.bannerbear.com/
+- BannerBear (https://www.bannerbear.com/): You can generate thousands of different images and videos fast.
 
 ## Videos
 https://creatorkit.com/
+
+## Payment
+
+## Analytics
